@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#header{
+    text-align: center;
+    margin-top: 190px;
+}
+#midder{
+   display: flex;
+   justify-content: center;
+    
+}
+button{
+    margin: 25px 75px;
+    width: 100px;
+    height: 50px;
+}
+.changingcolors{
+    background-color: violet;
+    color: yellow;
+    border-color: blue;
+}
